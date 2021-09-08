@@ -1,0 +1,1 @@
+export const api = "https://college-community-platform.herokuapp.com/"
