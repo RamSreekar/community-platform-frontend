@@ -30,4 +30,3 @@ Community Platform is a **ReactJS** web application.Its main objective is to pro
 ![](Images/Faculty2.jpeg)
 ![](Images/Admin1.jpeg)
 ![](Images/Admin.jpeg)
-![](Images/content moderation - major project.jpeg)
